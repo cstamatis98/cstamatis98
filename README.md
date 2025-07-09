@@ -10,3 +10,7 @@
 📫 How to reach me: c.stamatis@hotmail.com
 
 ---
+### 📂 Featured Projects
+- [Task Manager JavaFX]
+- [AI Personal Assistant Chatbot]
+- 
