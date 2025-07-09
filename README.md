@@ -12,5 +12,5 @@
 ---
 ### 📂 Featured Projects
 - [Task Manager ]https://github.com/cstamatis98/TaskManager.git
-- [AI Personal Assistant Chatbot]
+- [AI Personal Assistant Chatbot]https://github.com/cstamatis98/ai-personal-assistant-chatbot.git
 - 
