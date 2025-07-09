@@ -13,4 +13,4 @@
 ### 📂 Featured Projects
 - [Task Manager ]https://github.com/cstamatis98/TaskManager.git
 - [AI Personal Assistant Chatbot]https://github.com/cstamatis98/ai-personal-assistant-chatbot.git
-- 
+- [Smart Hotel Booking]https://github.com/cstamatis98/smart-hotel-booking.git
