@@ -11,6 +11,6 @@
 
 ---
 ### 📂 Featured Projects
-- [Task Manager JavaFX]
+- [Task Manager ]https://github.com/cstamatis98/TaskManager.git
 - [AI Personal Assistant Chatbot]
 - 
